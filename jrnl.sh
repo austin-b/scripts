@@ -48,6 +48,7 @@ create_entry() {
     vim "$MONTH_DIR/$DAY.txt" 
 }
 
+# TODO: make these pretty print in the proper month order
 list_entries() {
 
     # I am not sure if there will be more here in the future
